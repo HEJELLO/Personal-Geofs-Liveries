@@ -1,0 +1,45 @@
+{ "aircraft": [
+  {
+  "name": "Boeing 737 Max 8 (Jet Airways)",
+  "livery": "1",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_1.jpg"
+  },
+{
+  "name": "Boeing 737-800 (Spicejet)",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg"
+  },
+  	{
+  "name": "Boeing 737-200 (United Saul Bass) by Kyojuro",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_360.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_360.png",
+  "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+  "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
+},
+{
+  "name": "Airbus a320neo (Indigo)",
+  "livery": "1.5",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_1.5.jpg"
+  },
+{
+  "name": "Airbus a320neo (Vistara)",
+  "livery": "2.5",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_2.5.jpg"
+  },
+	{
+    "name": "Airbus a321neo (Jetstar) ",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/23.4.jpg",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/23.4.jpg"	
+    },
+	{
+  "name": "Embraer E145 (Star air) ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg"
+  },
+	{
+  "name": "Boeing 787-9 (Emirates New) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t624.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t624.png"
+        }
+	
+  ]}
